@@ -5,10 +5,8 @@ theme = "github-style"
 
 [params]
   author = "Nobuaki Kikuchi"
-  description = "My blog"
+  description = "Kikuchi Labo"
   github = "kikuchi-et-al"
   twitter = "Kikuchi_et_al"
-  email = ""
   utterances = "kikuchi-et-al/kikuchi-et-al.github.io"
   avatar = "https://example.com/images/avatar.png"
-  url = ""
