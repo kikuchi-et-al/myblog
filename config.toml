@@ -1,0 +1,14 @@
+baseURL = "https://kikuchi-et-al.github.io/"
+title = "GitHub Style"
+googleAnalytics = "UA-123-456-789"
+theme = "github-style"
+
+[params]
+  author = "example"
+  description = "example"
+  github = "example"
+  twitter = "example"
+  email = "example@domain.com"
+  utterances = "example/example.github.io"
+  avatar = "https://example.com/images/avatar.png"
+  url = "https://example.com"
