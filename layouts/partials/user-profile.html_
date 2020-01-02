@@ -97,12 +97,6 @@
                     <img src="{{ "images/twitter.png" | absURL }}" class="avatar" width="35" height="35">
                 </a>
                 {{ end }}
-                {{ if .Site.Params.Twitter}}
-                <a class="avatar-group-item" data-hovercard-type="organization"
-                    href="https://ja-jp.facebook.com/{{ .Site.Params.Facebook }}">
-                    <img src="{{ "images/facebook.png" | absURL }}" class="avatar" width="35" height="35">
-                </a>
-                {{ end }}
             </div>
 
             <div data-test-selector="profile-sponsorships">
